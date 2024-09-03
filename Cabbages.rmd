@@ -58,8 +58,10 @@ The top of the Q39 box is its Q3 at 54.75 the bottom of the c52 box is its Q1 wh
 t.test(VitC~Cult,data=veggy)
 ```
 
-The probability of getting this result is the number .00000003405. We do not believe that nothing is going on beacuase of the very small probability number and the conclusion is there is something going on because c52 method has more vitamin c than c39 method. 
+The probability of getting this result is the number .00000003405. We do not believe that nothing is going on because of the very small probability number and the conclusion is there is something going on because c52 method has more vitamin c than c39 method. 
 
 # Discussion and Conclusion
+
+I graphed the differences between c39 and c52 method and put them in boxplots to see that c39 is lower than c52. Then i looked at the numerical results between the quarters of my first boxplot and saw that c52 was higher than c39. I ran a statistical test and found the probability and the difference in methods between c39 and c59.
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
