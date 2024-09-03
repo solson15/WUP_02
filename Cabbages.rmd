@@ -45,6 +45,11 @@ bottom quartile for c52 box is higher third quartile for the c39 Box. Those two 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(VitC~Cult,data=veggy)
+```
+
+The top of the Q39 box is its Q3 at 54.75 the bottom of the c52 box is its Q1 which is at 58. The bottom of the c52 box is higher up than the top c39 box. The box representing c52 is higher than the box representing c39.
 
 ## Inferential Results
 
